@@ -11,3 +11,4 @@ Finished FCC Basic HTML and CSS sections, started Applied Visual Design section.
 Finished FCC Applied Visual Design. Read Github HelloWorld guide.
 
 ### R1D3
+Finished FCC Applied Accessibility.
