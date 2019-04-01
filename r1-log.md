@@ -12,3 +12,9 @@ Finished FCC Applied Visual Design. Read Github HelloWorld guide.
 
 ### R1D3
 Finished FCC Applied Accessibility.
+
+### R1D4
+Worked on Python and Numpy.
+
+### R1D5
+Worked on Python and Pandas.
